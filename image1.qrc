@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images_test/recovery.png</file>
+    <file>images_test/green.png</file>
+    <file>images_test/wait.png</file>
+    <file>images_test/red.png</file>
+    <file>images_test/wait.png</file>
+    <file>images_test/folder_web.png</file>
+    <file>images_test/g1.png</file>
+    <file>images_test/background.PNG</file>
+    <file>images_test/ini.png</file>
+    <file>images_test/slice.png</file>
+    <file>images_test/scan.gif</file>
+    <file>images_test/net_speed.png</file>
+    <file>images_test/result.png</file>
+  </qresource>
+</RCC>
