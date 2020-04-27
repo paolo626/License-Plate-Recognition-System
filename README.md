@@ -6,7 +6,8 @@
 ## 2.搭建运行环境 
 pip install -r requirements.txt
 ## 3.运行main函数
-得到博客https://blog.csdn.net/liupeng19970119/article/details/105595961效果。
+得到博客https://blog.csdn.net/liupeng19970119/article/details/105595961
+效果。
 
 ## 麻烦给个star，谢谢^-^
 
