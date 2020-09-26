@@ -61,7 +61,7 @@ scipy==1.4.1
 Send2Trash==1.5.0
 six==1.14.0
 tensorboard==1.10.0
-tensorflow==1.15.2
+tensorflow==1.15.4
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 terminado==0.8.3
