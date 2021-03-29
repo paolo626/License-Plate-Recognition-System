@@ -46,7 +46,7 @@ prompt-toolkit==3.0.4
 protobuf==3.11.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-Pygments==2.6.1
+Pygments==2.7.4
 PyQt5==5.14.2
 PyQt5-sip==12.7.2
 pyrsistent==0.16.0
