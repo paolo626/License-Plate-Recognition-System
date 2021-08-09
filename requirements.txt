@@ -51,7 +51,7 @@ PyQt5==5.14.2
 PyQt5-sip==12.7.2
 pyrsistent==0.16.0
 python-dateutil==2.8.1
-pywin32==227
+pywin32==301
 pywinpty==0.5.7
 pyzmq==18.1.1
 requests==2.23.0
